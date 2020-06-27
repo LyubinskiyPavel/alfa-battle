@@ -1,0 +1,8 @@
+server:
+  port: 8082
+spring:
+  datasource:
+    url: jdbc:postgresql://130.193.50.254:5432/alfa_battle
+    driver-class-name: org.postgresql.Driver
+    username: alfa_battle
+    password: qwe123

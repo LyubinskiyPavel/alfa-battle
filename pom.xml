@@ -10,6 +10,7 @@
     <modules>
         <module>task1_atm</module>
         <module>task2_kafka</module>
+        <module>task3</module>
     </modules>
     <packaging>pom</packaging>
 
