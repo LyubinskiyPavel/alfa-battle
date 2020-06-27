@@ -6,7 +6,7 @@ public class Payment {
 
     private String ref;
 
-    private String categoryId;
+    private Integer categoryId;
 
     private String userId;
 
@@ -24,11 +24,11 @@ public class Payment {
         this.ref = ref;
     }
 
-    public String getCategoryId() {
+    public Integer getCategoryId() {
         return categoryId;
     }
 
-    public void setCategoryId(String categoryId) {
+    public void setCategoryId(Integer categoryId) {
         this.categoryId = categoryId;
     }
 
